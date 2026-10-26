@@ -1,2 +1,6 @@
 import os
-print (os.istdir())
+print (os.listdir())
+
+print (os.cwd())
+
+#we are using the os module 
